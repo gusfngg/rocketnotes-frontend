@@ -8,12 +8,12 @@
 
 *Website (Vite)*
 
-Styled-Components
-React-Toastify
-React-Query
-React-Icons
-React-Loader-Spinner
-React-Router-DOM
+- Styled-Components
+- React-Toastify
+- React-Query
+- React-Icons
+- React-Loader-Spinner
+- React-Router-DOM
 
 ### Contact
 
